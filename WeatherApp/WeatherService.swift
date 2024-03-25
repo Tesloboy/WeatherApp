@@ -1,6 +1,6 @@
 //
 //  WeatherService.swift
-//  Weather
+//  WeatherApp
 //
 //  Created by Viktor Teslenko on 25.03.2024.
 //

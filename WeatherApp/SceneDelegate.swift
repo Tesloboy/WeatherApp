@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  Weather
+//  WeatherApp
 //
 //  Created by Viktor Teslenko on 24.03.2024.
 //
